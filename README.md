@@ -21,7 +21,7 @@ The connector is built using the **commercetools Connect Payment SDK** and follo
 - Allows merchants to configure a minimum transaction amount required to initiate payment authorization.
 - Automatically validates whether a transaction meets the eligibility criteria for guaranteed payment processing.
 - Supports webhook notifications and processing for major payment-related events 
-- Enables deployment and integration of the payment module through the commercetools Connect platform.
+- Enables deployment and integration of the payment connector through the commercetools Connect platform.
 
 
 For detailed documentation and other technical inquiries, please send us an email at <a href="mailto:sales@novalnet.de"> sales@novalnet.de </a>

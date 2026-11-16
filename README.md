@@ -16,8 +16,8 @@ The connector is built using the **commercetools Connect Payment SDK** and follo
 - Reporting & analytics dashboards with multiple export options
 -  Direct and Redirect payment flows 
 - Credit Card 3D Secure support 
-- One-click shopping enabled for commonly used payment types --
-- On-hold transaction configuration for Credit Card, Direct Debit SEPA, Invoice , Guarantee Direct Debit Sepa ,Guarantee Invoice and PayPal --
+- One-click shopping enabled for commonly used payment types 
+- On-hold transaction configuration for Credit Card, Direct Debit SEPA, Invoice , Guarantee Direct Debit Sepa ,Guarantee Invoice and PayPal 
 - Allows merchants to configure a minimum transaction amount required to initiate payment authorization.
 - Automatically validates whether a transaction meets the eligibility criteria for guaranteed payment processing.
 - Supports webhook notifications and processing for major payment-related events 

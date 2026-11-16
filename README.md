@@ -164,7 +164,7 @@ Here, you can see the details about various variables in the configuration
 * **NOVALNET_WEBHOOK_TEST_MODE** : Enables test mode for Novalnet webhook notifications. Set to 1 for test mode and 0 for live mode. Switch to live mode before making your shop live. Default: 0.
 * **MERCHANT_RETURN_URL** : Specifies the merchant return URL to which customers are redirected after completing the payment process.
 
-## Modules
+## Connector
 
 ### Enabler
 

@@ -1,6 +1,6 @@
 # Novalnet Payment Connector for commercetools
 
-The <<a href="https://www.novalnet.com/integration/novalnet-payment-connector-for-commercetools/"> **Novalnet Payment Connector** </a>  is a commercetools Connect application that integrates the Novalnet Payment Gateway with **commercetools Checkout**. It supports direct and redirect payment methods, authorization and payment flows, webhook processing, and automatic synchronization of Payments and Orders throughout the payment lifecycle.
+The <a href="https://www.novalnet.com/integration/novalnet-payment-connector-for-commercetools/"> **Novalnet Payment Connector** </a>  is a commercetools Connect application that integrates the Novalnet Payment Gateway with **commercetools Checkout**. It supports direct and redirect payment methods, authorization and payment flows, webhook processing, and automatic synchronization of Payments and Orders throughout the payment lifecycle.
 
 The connector is built using the **commercetools Connect Payment SDK** and follows commercetools Connect deployment standards.
 

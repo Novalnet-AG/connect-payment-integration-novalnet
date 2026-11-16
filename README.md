@@ -207,7 +207,7 @@ flowchart TD
 Refer to **connect.yaml** for the complete configuration list.
 
 ## Documentation  
-Find more about WooCommerce plugin in: 
+Find more about commercetools Payment Connector in: 
 [https://www.novalnet.de/site_pdf/commercetools-novalnet-payments-connector_Installation_guide.pdf](https://www.novalnet.de/site_pdf/commercetools-novalnet-payments-connector_Installation_guide.pdf)<br>
 
 ## Support

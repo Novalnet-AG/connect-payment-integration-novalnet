@@ -21,7 +21,7 @@ The connector is built using the **commercetools Connect Payment SDK** and follo
 - Allows merchants to configure a minimum transaction amount required to initiate payment authorization.
 - Automatically validates whether a transaction meets the eligibility criteria for guaranteed payment processing.
 - Supports webhook notifications and processing for major payment-related events 
-- Enables deployment and integration of the payment module through the commercetools Connect platform.
+- Enables deployment and integration of the payment connector through the commercetools Connect platform.
 
 
 For detailed documentation and other technical inquiries, please send us an email at <a href="mailto:sales@novalnet.de"> sales@novalnet.de </a>
@@ -164,7 +164,7 @@ Here, you can see the details about various variables in the configuration
 * **NOVALNET_WEBHOOK_TEST_MODE** : Enables test mode for Novalnet webhook notifications. Set to 1 for test mode and 0 for live mode. Switch to live mode before making your shop live. Default: 0.
 * **MERCHANT_RETURN_URL** : Specifies the merchant return URL to which customers are redirected after completing the payment process.
 
-## Modules
+## Connector
 
 ### Enabler
 
